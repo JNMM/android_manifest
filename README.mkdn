@@ -2,4 +2,16 @@ repo init -u https://github.com/lichti1901/android_manifest.git -b lichti
 
 flashable builds for hammerhead, grouper, mako and manta can be found on http://fitsnugly.euroskank.com/?rom=rastakat
 
-<img src="https://raw.github.com/rascarlo/android_manifest/jb-ras-mr2.0/LionOfJudah.png">
+=======
+
+Manifest for android-4.4.1_r1
+
+repo init -u https://github.com/rascarlo/android_manifest.git -b kk-ras-mr1.1
+
+[@rascarlo](https://twitter.com/rascarlo) on Twitter
+
+[@rascarlo](https://plus.google.com/109659243885540447673) on G+
+
+flashable builds for grouper, hammerhead, mako and manta can be found on http://fitsnugly.euroskank.com/?rom=rastakat
+
+<img src="https://raw.github.com/rascarlo/android_manifest/kk-ras-mr1.1/LionOfJudah.png">
