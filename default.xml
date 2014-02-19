@@ -13,7 +13,7 @@
            remote="aosp"
            sync-j="4" />
 
-<project path="build" name="android_build" groups="pdk" remote="rascarlo" revision="kk-ras-mr1.2_r2" >
+<project path="build" name="android_build" groups="pdk" remote="lichti1901" revision="lichti" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="lazyAll.sh" dest="lazyAll.sh" />
     <copyfile src="lazyClobber.sh" dest="lazyClobber.sh" />
